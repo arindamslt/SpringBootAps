@@ -15,6 +15,7 @@ public class SpringBootApsApplication implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
 		System.out.println("BOOT EXAMPLE");
+		System.out.println("WELCOME TO BOOT CLASS");
 	}
 
 }
